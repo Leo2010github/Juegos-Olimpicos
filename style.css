@@ -1,0 +1,13 @@
+#Canvas{
+    border-style: dashed;
+    border-color: rgb(207, 240, 22);
+    border-width: 7px;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0);
+    background-color: white;
+}
+body{
+    text-align: center;
+}
+h1{
+    color: darkgreen;
+}
